@@ -1,16 +1,18 @@
 # desafio-warren
 
-<p> Warren Tech Academy </p>
+<h1> Warren Tech Academy </h1>
 Desafios para o processo seletivo da Warren Tech Academy.
 
-<p> Como executar os códigos </p>
+<h1> Como executar os códigos </h1>
 
-<p> Desafio 01 </p>
-Para executar o código do desafio 1 é necessário acessar o site Codepen.io com o Link: https://codepen.io/natanmcardoso/pen/LYQGaoN
+Para executar o código do desafio 1 é necessário acessar o site Codepen.io com os links abaixo.
 Realizei neste site para não ser necessário a instalação de recursos adicionais.
 
-<p> Desafio 02 </p>
-Para executar o código do desafio 2 é necessário acessar o site Codepen.io com o Link: https://codepen.io/natanmcardoso/pen/ZErQPNZ
+<h2>Desafio 01 </h2>
+Link: https://codepen.io/natanmcardoso/pen/LYQGaoN
 
-<p> Desafio 03 </p>
-Para executar o código do desafio 2 é necessário acessar o site Codepen.io com o Link: 
+<h2>Desafio 02 </h2>
+Link: https://codepen.io/natanmcardoso/pen/ZErQPNZ
+
+<h2>Desafio 03 </h2>
+Link: 
