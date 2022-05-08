@@ -5,7 +5,7 @@ Desafios para o processo seletivo da Warren Tech Academy.
 
 <h1> Como executar os códigos </h1>
 
-Para executar o código do desafio 1 é necessário acessar o site Codepen.io com os links abaixo.
+Para executar o código dos desafios é necessário acessar o site Codepen.io com os links abaixo.
 Realizei neste site para não ser necessário a instalação de recursos adicionais.
 
 <h2>Desafio 01 </h2>
